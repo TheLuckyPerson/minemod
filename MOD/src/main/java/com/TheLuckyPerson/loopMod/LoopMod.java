@@ -96,8 +96,6 @@ public class LoopMod
         }
     }
 
-    private static Field KEYBIND_ARRAY = null;
-
     @SubscribeEvent (priority = EventPriority.LOWEST)
     public void onClientTick(TickEvent.ClientTickEvent event) throws Exception {
         if(Keybinds.saveInventory.isPressed()) {
