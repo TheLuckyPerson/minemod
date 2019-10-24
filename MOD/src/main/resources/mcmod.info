@@ -1,0 +1,16 @@
+[
+{
+  "modid": "lm",
+  "name": "Loop Mod",
+  "description": "A Mod That Loops With Each New Advancement.",
+  "version": "1.0",
+  "mcversion": "1.12.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["TheLuckyPerson or Tyler Le"],
+  "credits": "The Forge and FML guys, for making this example as well as Mr. Lindemann",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
